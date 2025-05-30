@@ -18,7 +18,7 @@ I love learning new things in fields such as web development, data analysis, and
 </ul>
 
  
-<h2>🚀 أدوات أستخدمها وبتعلّمها</h2>
+<h2 Tools I use and learn</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
