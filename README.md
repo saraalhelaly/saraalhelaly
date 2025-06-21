@@ -35,5 +35,4 @@ I love learning new things in fields such as web development, data analysis, and
 - 📧 sara.alhelaly1@gmail.com 
 
  
- <p>أحب القهوة ووقت البرمجة عندي ما يكتمل إلا بموسيقى هادئة ☕🎶</p>
-
+ 
